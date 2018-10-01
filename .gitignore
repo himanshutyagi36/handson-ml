@@ -1,0 +1,4 @@
+# datasets/*
+images/*
+handson-ml/*
+*.ipynb*
